@@ -1,7 +1,11 @@
+/home/dasunsanjaya080/ROS2_works/course_1/install/my_robot_description/share/my_robot_description/urdf/arm.xacro
+/home/dasunsanjaya080/ROS2_works/course_1/install/my_robot_description/share/my_robot_description/urdf/arm_gazebo.xacro
+/home/dasunsanjaya080/ROS2_works/course_1/install/my_robot_description/share/my_robot_description/urdf/camera.xacro
 /home/dasunsanjaya080/ROS2_works/course_1/install/my_robot_description/share/my_robot_description/urdf/command_properties.xacro
 /home/dasunsanjaya080/ROS2_works/course_1/install/my_robot_description/share/my_robot_description/urdf/mobile_base.xacro
 /home/dasunsanjaya080/ROS2_works/course_1/install/my_robot_description/share/my_robot_description/urdf/mobile_base_gazebo.xacro
 /home/dasunsanjaya080/ROS2_works/course_1/install/my_robot_description/share/my_robot_description/urdf/my_robot.urdf.xacro
+/home/dasunsanjaya080/ROS2_works/course_1/install/my_robot_description/share/my_robot_description/urdf/stand_alone.urdf.xacro
 /home/dasunsanjaya080/ROS2_works/course_1/install/my_robot_description/share/my_robot_description/launch/display.launch.py
 /home/dasunsanjaya080/ROS2_works/course_1/install/my_robot_description/share/my_robot_description/launch/display.launch.xml
 /home/dasunsanjaya080/ROS2_works/course_1/install/my_robot_description/share/my_robot_description/rviz/urdf_config.rviz
