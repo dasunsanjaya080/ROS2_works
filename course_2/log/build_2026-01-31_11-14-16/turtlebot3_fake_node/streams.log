@@ -1,0 +1,76 @@
+[0.020s] Invoking command in '/home/dasunsanjaya080/ROS2_works/course_2/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/dasunsanjaya080/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/dasunsanjaya080/ROS2_works/course_2/src/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node
+[0.366s] -- The C compiler identification is GNU 11.4.0
+[1.496s] -- The CXX compiler identification is GNU 11.4.0
+[1.850s] -- Detecting C compiler ABI info
+[2.066s] -- Detecting C compiler ABI info - done
+[2.070s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.078s] -- Detecting C compile features
+[2.079s] -- Detecting C compile features - done
+[2.081s] -- Detecting CXX compiler ABI info
+[2.290s] -- Detecting CXX compiler ABI info - done
+[2.294s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.295s] -- Detecting CXX compile features
+[2.295s] -- Detecting CXX compile features - done
+[2.313s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.418s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.501s] -- Found geometry_msgs: 4.9.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[2.868s] -- Found rosidl_generator_c: 3.1.7 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.873s] -- Found rosidl_adapter: 3.1.7 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.881s] -- Found rosidl_generator_cpp: 3.1.7 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.893s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.908s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.944s] -- Found nav_msgs: 4.9.0 (/opt/ros/humble/share/nav_msgs/cmake)
+[2.960s] -- Found rclcpp: 16.0.16 (/opt/ros/humble/share/rclcpp/cmake)
+[2.999s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.002s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[3.029s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[3.039s] -- Looking for pthread.h
+[3.309s] -- Looking for pthread.h - found
+[3.309s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.673s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.673s] -- Found Threads: TRUE  
+[3.724s] -- Found sensor_msgs: 4.9.0 (/opt/ros/humble/share/sensor_msgs/cmake)
+[3.743s] -- Found tf2: 0.25.17 (/opt/ros/humble/share/tf2/cmake)
+[3.752s] -- Found tf2_msgs: 0.25.17 (/opt/ros/humble/share/tf2_msgs/cmake)
+[3.791s] -- Found turtlebot3_msgs: 2.4.0 (/opt/ros/humble/share/turtlebot3_msgs/cmake)
+[3.853s] -- Configuring done
+[3.861s] -- Generating done
+[3.864s] -- Build files have been written to: /home/dasunsanjaya080/ROS2_works/course_2/build/turtlebot3_fake_node
+[3.871s] Invoked command in '/home/dasunsanjaya080/ROS2_works/course_2/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/dasunsanjaya080/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/dasunsanjaya080/ROS2_works/course_2/src/turtlebot3_fake_node -DCMAKE_INSTALL_PREFIX=/home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node
+[3.873s] Invoking command in '/home/dasunsanjaya080/ROS2_works/course_2/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/dasunsanjaya080/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/dasunsanjaya080/ROS2_works/course_2/build/turtlebot3_fake_node -- -j12 -l12
+[3.902s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_fake_node.dir/src/turtlebot3_fake_node.cpp.o[0m
+[10.739s] [100%] [32m[1mLinking CXX executable turtlebot3_fake_node[0m
+[11.291s] [100%] Built target turtlebot3_fake_node
+[11.301s] Invoked command in '/home/dasunsanjaya080/ROS2_works/course_2/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/dasunsanjaya080/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/dasunsanjaya080/ROS2_works/course_2/build/turtlebot3_fake_node -- -j12 -l12
+[11.303s] Invoking command in '/home/dasunsanjaya080/ROS2_works/course_2/build/turtlebot3_fake_node': CMAKE_PREFIX_PATH=/home/dasunsanjaya080/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/dasunsanjaya080/ROS2_works/course_2/build/turtlebot3_fake_node
+[11.307s] -- Install configuration: ""
+[11.307s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node
+[11.310s] -- Set runtime path of "/home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/lib/turtlebot3_fake_node/turtlebot3_fake_node" to ""
+[11.310s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch
+[11.310s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/rviz2.launch.py
+[11.310s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/launch/turtlebot3_fake_node.launch.py
+[11.310s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param
+[11.310s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle_pi.yaml
+[11.310s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/waffle.yaml
+[11.310s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/param/burger.yaml
+[11.311s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/include/
+[11.311s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/include//turtlebot3_fake_node
+[11.311s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/include//turtlebot3_fake_node/turtlebot3_fake_node.hpp
+[11.311s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/ament_index/resource_index/package_run_dependencies/turtlebot3_fake_node
+[11.311s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/ament_index/resource_index/parent_prefix_path/turtlebot3_fake_node
+[11.311s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.sh
+[11.311s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/ament_prefix_path.dsv
+[11.311s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.sh
+[11.311s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/environment/path.dsv
+[11.312s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.bash
+[11.312s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.sh
+[11.312s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.zsh
+[11.312s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/local_setup.dsv
+[11.312s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.dsv
+[11.312s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/ament_index/resource_index/packages/turtlebot3_fake_node
+[11.312s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_include_directories-extras.cmake
+[11.312s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/ament_cmake_export_dependencies-extras.cmake
+[11.312s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig.cmake
+[11.313s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/cmake/turtlebot3_fake_nodeConfig-version.cmake
+[11.313s] -- Installing: /home/dasunsanjaya080/ROS2_works/course_2/install/turtlebot3_fake_node/share/turtlebot3_fake_node/package.xml
+[11.314s] Invoked command in '/home/dasunsanjaya080/ROS2_works/course_2/build/turtlebot3_fake_node' returned '0': CMAKE_PREFIX_PATH=/home/dasunsanjaya080/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/dasunsanjaya080/ROS2_works/course_2/build/turtlebot3_fake_node
